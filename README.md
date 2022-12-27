@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoshuaFrederick
 - 👀 I’m interested in learning just about anything
 - 📚 I’m currently learning Python, GitHub, and baking 👨‍🍳
-- 👷 I’m looking to collaborate on web site development and analisis tools (finance, engineering, science)
+- 👷 I’m looking to collaborate on web site development, 3D printing, and analysis tools (finance, engineering, science)
 
 
 <!---
